@@ -4,4 +4,5 @@ numpy
 scikit-learn
 gunicorn
 opencv-python-headless==4.5.5.62
+keras
 
