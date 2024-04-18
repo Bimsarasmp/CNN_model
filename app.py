@@ -5,6 +5,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.losses import CategoricalCrossentropy
 import numpy as np
 import cv2
+pip install keras
 
 app = Flask(__name__)
 
