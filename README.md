@@ -15,7 +15,7 @@ This project aims to develop a model for image classification using convolutiona
 - Model Development: Develop CNN-based models using frameworks like TensorFlow or PyTorch to train on the prepared image data.
 - Model Evaluation: Evaluate the trained models using various performance metrics and techniques such as cross-validation and confusion matrices.
 - Fine-Tuning and Optimization: Fine-tune the models and optimize hyperparameters to improve performance and generalization.
-- Deployment: Deploy the trained models for inference in real-world applications, potentially using frameworks like Flask or FastAPI for building APIs.
+- Deployment: Deploy the trained models for inference in real-world applications, using frameworks like Flask for building APIs.
 
 **Technologies Used:**
 
