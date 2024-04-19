@@ -21,5 +21,6 @@ This project aims to develop a model for image classification using convolutiona
 
 Backend: Python for model development and training, TensorFlow or PyTorch for building CNN models, scikit-learn for evaluation metrics.
 Frontend: Development of a user interface (UI) using Flask for handling HTTP requests. The API accepts image uploads and returns classification results and confidence levels. TensorFlow/Keras is utilized for loading and utilizing the CNN model, while Pillow (PIL) is used for image processing.
+
 ![WhatsApp Image 2024-04-17 at 19 53 15_7b423063](https://github.com/Bimsarasmp/CNN_model/assets/139917862/f84a9c18-5944-4cea-b905-dab3296ab813)
 
