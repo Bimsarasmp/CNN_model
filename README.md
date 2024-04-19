@@ -1,4 +1,4 @@
-**Image Classification using CNN**
+# **Image Classification using CNN**
 
 **Overview:**
 This project aims to develop a model for image classification using convolutional neural networks (CNNs) to classify images into predefined categories. The model leverages advanced data analytics and machine learning techniques to accurately classify images.
